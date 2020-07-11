@@ -1,0 +1,28 @@
+header {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 24px;
+  min-height: 24px;
+  text-align: center;
+  background-color: #AA0000;
+  color: #B3995D
+  }
+
+h2 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  min-height: 18px;
+  text-align: center;
+  background-color: #AA0000;
+  color: #B3995D
+}
+
+
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  min-height: 12px;
+  text-align: center;
+  background-color: #A5ACAF;
+  color: #004C54
+
+}
